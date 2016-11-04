@@ -49,13 +49,13 @@ body {
     font-family: 'QlassikMediumRegular', sans-serif;
     min-height: 740px;
     
-    background: rgb(255, 188, 114);
-    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(255, 209, 155)), to(rgb(255, 188, 114)));
-    background: -webkit-radial-gradient(rgb(255, 209, 155), rgb(255, 188, 114));
-    background:    -moz-radial-gradient(rgb(255, 209, 155), rgb(255, 188, 114));
-    background:     -ms-radial-gradient(rgb(255, 209, 155), rgb(255, 188, 114));
-    background:      -o-radial-gradient(rgb(255, 209, 155), rgb(255, 188, 114));
-    background:         radial-gradient(rgb(255, 209, 155), rgb(255, 188, 114));
+    background: rgb(4, 150, 255);
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(75, 179, 253)), to(rgb(4, 150, 255)));
+    background: -webkit-radial-gradient(rgb(75, 179, 253), rgb(4, 150, 255));
+    background:    -moz-radial-gradient(rgb(75, 179, 253), rgb(4, 150, 255));
+    background:     -ms-radial-gradient(rgb(75, 179, 253), rgb(4, 150, 255));
+    background:      -o-radial-gradient(rgb(75, 179, 253), rgb(4, 150, 255));
+    background:         radial-gradient(rgb(75, 179, 253), rgb(4, 150, 255));
 }
 
 b, strong { font-weight: bold }
